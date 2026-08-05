@@ -1,4 +1,4 @@
-package org.tnsif.acce.c2ct.Polymorphism;
+package org.tnsif.acce.c2tc.Polymorphism;
 
 
 	class Student1
